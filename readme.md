@@ -1,0 +1,1 @@
+Welcome to recipe format fixer - a way to quickly fix the text export format from Cook'n 99 to be compatible with modern versions of Cook'n
